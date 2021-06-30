@@ -34,5 +34,6 @@ Le S3 Kernel Build mini-Howto
 3. Clean up
 -----------
 test
+test2
 
 $ rm -rf out
